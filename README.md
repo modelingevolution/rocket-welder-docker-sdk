@@ -1,5 +1,6 @@
-![RocketWelder](./logo.png)
 
+![RocketWelder](./logo.png)
+# Simulator
 ## Prerequisites
 
 Make sure you have installed:
