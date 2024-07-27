@@ -1,4 +1,4 @@
-# Rocket Welder Simulator
+![RocketWelder](./logo.png)
 
 ## Prerequisites
 
