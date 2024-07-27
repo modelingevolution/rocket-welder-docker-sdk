@@ -33,6 +33,9 @@ sudo docker compose up -d
 7. Wait a bit, the file is being decoded and then you can watch it in home-page.
 8. Now can connect your SDK to URL: tcp://localhost:7000/<name-of-the-file>
 
+Useful links:
+[Python SDK](https://pypi.org/project/rocket-welder-sdk/)
+
 Enjoy.
 
 ## Q & A
